@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": "blurhash.now.sh",
+  "alias": "blurhashme.vercel.app",
   "headers": [
     {
       "source": "/(.*)",
