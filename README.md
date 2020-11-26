@@ -17,3 +17,7 @@ Sample output:
   "blurhash": "UGDSzO~VDhMxxGWAX8s;IUD$WB-=RPxtxtV@"
 }
 ```
+
+### Alternative
+
+Want to try something similar? See [plaiceholder](https://github.com/joe-bell/plaiceholder).
